@@ -1,0 +1,22 @@
+/*  Eren Memish - 211307081 - Kocaeli University
+
+    Additional CSS codes to customize 
+
+*/
+
+/* Font to design logo */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+@font-face {
+    font-family: 'College';
+    src: url('fonts/college.ttf'),format('ttf');
+}
+
+
+
+#logo-text{
+    color:white;
+    font-family: College, sans-serif;
+    font-size: 36px;
+    display: inline-block;
+}
+
